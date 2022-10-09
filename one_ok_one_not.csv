@@ -1,0 +1,2 @@
+order_id[<class 'int'>], stock[<class 'str'>], price[<class 'float'>], size[<class 'int'>], executed[<class 'bool'>]
+1, stock1, 99.0, 3, True
